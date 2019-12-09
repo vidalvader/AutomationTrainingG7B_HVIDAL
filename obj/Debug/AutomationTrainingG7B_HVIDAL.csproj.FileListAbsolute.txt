@@ -1,0 +1,17 @@
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\obj\Debug\AutomationTrainingG7B_HVIDAL.csprojAssemblyReference.cache
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\obj\Debug\AutomationTrainingG7B_HVIDAL.csproj.CoreCompileInputs.cache
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\bin\Debug\nunit.engine.dll
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\bin\Debug\nunit.engine.api.dll
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\bin\Debug\AutomationTrainingG7B_HVIDAL.exe.config
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\bin\Debug\AutomationTrainingG7B_HVIDAL.exe
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\bin\Debug\AutomationTrainingG7B_HVIDAL.pdb
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\bin\Debug\nunit.framework.dll
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\bin\Debug\WebDriver.dll
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\bin\Debug\nunit.framework.pdb
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\bin\Debug\nunit.framework.xml
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\bin\Debug\WebDriver.xml
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\obj\Debug\AutomationTrainingG7B_HVIDAL.csproj.CopyComplete
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\obj\Debug\AutomationTrainingG7B_HVIDAL.exe
+C:\Users\HugoAlejandroVidalVa\source\repos\AutomationTrainingG7B_HVIDAL\AutomationTrainingG7B_HVIDAL\obj\Debug\AutomationTrainingG7B_HVIDAL.pdb
